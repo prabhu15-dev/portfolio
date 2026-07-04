@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
       <p>&copy; {new Date().getFullYear()} All Rights Reserved.</p>
-      <p>Designed and Developed by Sri Haran</p>
+      <p>Designed and Developed by Prabhakaran</p>
         <div className="social-icons">
           <a href="https://github.com" target="_blank" rel="noopener noreferrer"><FaGithub className="icon" /></a>
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><FaLinkedin className="icon" /></a>

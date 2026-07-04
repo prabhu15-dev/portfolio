@@ -29,7 +29,7 @@ const About = () => {
             <Fade duration={1000} delay={400}direction="top">
               <i className="bi bi-cake detail-icon"></i>
               <span>
-                Birthday: <span className="my-data">05-03-2003</span>
+                Birthday: <span className="my-data">15-02-2003</span>
               </span>
               </Fade>
             </div>
@@ -38,7 +38,7 @@ const About = () => {
             <Fade duration={1000} delay={600}direction="top">
               <i className="bi bi-person detail-icon"></i>
               <span>
-                Age: <span className="my-data">22</span>
+                Age: <span className="my-data">23</span>
               </span>
               </Fade>
             </div>
@@ -52,9 +52,9 @@ const About = () => {
             </div>
             <div className="detail-item">
             <Fade duration={1000} delay={1000}direction="top">
-              <i className="bi bi-bicycle detail-icon"></i>
+     <i className="bi bi-trophy detail-icon"></i>
               <span>
-                Hobby: <span className="my-data">Ride</span>
+                Hobby: <span className="my-data">Cricket</span>
               </span>
               </Fade>
             </div>
@@ -66,7 +66,7 @@ const About = () => {
             <Fade duration={1000} delay={200}direction="top">
               <i className="bi bi-phone detail-icon"></i>
               <span>
-                Mobile: <span className="my-data">8973637030</span>
+                Mobile: <span className="my-data">9384205123</span>
               </span>
               </Fade>
             </div>
@@ -74,7 +74,7 @@ const About = () => {
             <Fade duration={1000} delay={400}direction="top">
               <i className="bi bi-envelope detail-icon"></i>
               <span>
-                Email: <span className="my-data">sriharan20965@gmail.com</span>
+                Email: <span className="my-data">prabhakaranaofficial@gmail.com</span>
               </span>
               </Fade>
             </div>
@@ -103,38 +103,39 @@ const About = () => {
               <h3>
                 <FaGraduationCap /> Education
               </h3>
-              <Fade duration={1000} delay={200}direction="top">
-                <div className="time-line-content">
-                  <div className="timeline-card">
-                    <h4>Bachelor of Computer Science</h4>
-                    <p className="time-line-name">
-                      JJ College of Arts and Science, Pudukkottai
-                    </p>{" "}
-                    <p className="timeline-description">
-                      Graduated with a CGPA of 8.52, gaining a strong foundation
-                      in core computer science concepts, problem-solving, and
-                      programming.
-                    </p>
-                    <p>2021 - 2024</p>
-                  </div>
-                </div>
-              </Fade>
-              <Fade duration={1000} delay={300}direction="top">
-              <div className="time-line-content">
-                <div className="timeline-card">
-                  <h4>High School</h4>
-                  <p className="time-line-name">
-                    S.F.S. Matriculation Higher Secondary School
-                  </p>{" "}
-                  <p className="timeline-description">
-                    Completed higher secondary education with a focus on
-                    Computer Science, securing 79% marks. Introduced me to the
-                    fundamentals of programming and logical thinking.
-                  </p>
-                  <p>2020 - 2021</p>
-                </div>
-              </div>
-              </Fade>
+                 <Fade duration={1000} delay={200} direction="top">
+  <div className="time-line-content">
+    <div className="timeline-card">
+      <h4>Master of Computer Applications (MCA)</h4>
+      <p className="time-line-name">
+        JJ College of Arts and Science, Pudukkottai
+      </p>
+      <p className="timeline-description">
+        Completed advanced studies in software development, web technologies,
+        databases, and system design. Developed practical skills through
+        real-time projects, internships, and hands-on coding experience.
+      </p>
+      <p>2024 – 2026 | CGPA: 7.44</p>
+    </div>
+  </div>
+</Fade>
+              <Fade duration={1000} delay={200} direction="top">
+  <div className="time-line-content">
+    <div className="timeline-card">
+      <h4>Bachelor of Science (B.Sc) – Computer Science</h4>
+      <p className="time-line-name">
+        JJ College of Arts and Science, Pudukkottai
+      </p>
+      <p className="timeline-description">
+        Built a strong foundation in programming, data structures,
+        operating systems, and web development. Gained experience in
+        developing academic projects and collaborative problem-solving.
+      </p>
+      <p>2021 – 2024 | CGPA: 7.32</p>
+    </div>
+  </div>
+</Fade>
+
             </div>
             <div className="timeline-col">
               <h3>
@@ -143,7 +144,7 @@ const About = () => {
               <Fade  duration={1000} delay={400}direction="top">
               <div className="time-line-content">
                 <div className="timeline-card">
-                  <h4>Front-end Developer</h4>
+                  <h4>Web Developer- Intern</h4>
                   <p className="time-line-name">King Phoenix IT Solution and Training</p>
                   <p className="timeline-description">
                     Worked as a Front-end Developer, developing responsive user
@@ -151,19 +152,7 @@ const About = () => {
                     teams to deliver efficient, and user-friendly web
                     applications.
                   </p>
-                  <p>Sept 2024 - April 2025</p>
-                </div>
-              </div>
-              </Fade>
-              <Fade duration={1000} delay={500}direction="top">
-              <div className="time-line-content">
-                <div className="timeline-card">
-                  <h4>PHP Developer Intern</h4>
-                  <p className="time-line-name">Uk Info Tech</p>
-                  <p className="timeline-description">
-                  A PHP intern developer with front-end skills works on creating user interfaces using HTML, CSS, and JavaScript, ensuring seamless integration with PHP back-end systems. 
-                  </p>
-                  <p>2024</p>
+                  <p>Apil 2026 - June 2026</p>
                 </div>
               </div>
               </Fade>

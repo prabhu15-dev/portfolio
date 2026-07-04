@@ -55,7 +55,7 @@ const Contacts = () => {
                 <FaPhone className="contact-icon phone-icon" />
                 <h3>Mobile</h3>
                 <p>
-                  <a href="tel:+91 8973637030">+91 8973637030</a>
+                  <a href="tel:+91 9384205123">+91 9384205123</a>
                 </p>
               </div>
             </Fade>
@@ -66,8 +66,8 @@ const Contacts = () => {
                 <FaEnvelope className="contact-icon" />
                 <h3>Email</h3>
                 <p>
-                  <a href="mailto:sriharan20965@gmail.com">
-                    sriharan20965@gmail.com
+                  <a href="mailto: prabhakaranaofficial@gmail.com">
+                     prabhakaranaofficial@gmail.com
                   </a>
                 </p>
               </div>
@@ -84,6 +84,7 @@ const Contacts = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
+                    
                     Pudukkottai, Tamil Nadu, India.
                   </a>
                 </p>
@@ -122,16 +123,16 @@ const Contacts = () => {
           </div>
 
           <div className="contact-map">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.486486591545!2d78.800661!3d10.384383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b6df3c631abbef9%3A0x6ff92d47f77d5b76!2sThirugokarnam%2C%20Pudukkottai%2C%20Tamil%20Nadu%20622202!5e0!3m2!1sen!2sin!4v1710480000000!5m2!1sen!2sin"
-              width="100%"
-              height="100%"
-              style={{ border: 0 }}
-              allowFullScreen=""
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            ></iframe>
-          </div>
+  <iframe
+    src="https://www.google.com/maps?q=Thaila+Nagar,+Bala+Nagar,+Pudukkottai,+Tamil+Nadu+622001&output=embed"
+    width="100%"
+    height="100%"
+    style={{ border: 0 }}
+    allowFullScreen
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+  ></iframe>
+</div>
         </div>
       </div>
       {showPopup && (

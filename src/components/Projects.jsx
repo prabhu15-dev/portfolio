@@ -21,61 +21,21 @@ const Projects = () => {
         "project-1_3.png",
       ],
     },
-    {
-      id: 2,
-      title: "ONNBOOK",
-      description:
-      "OnnBook is a hospital management web application designed for both hospitals and end-users. It provides a seamless appointment booking system where patients can schedule consultations with doctors based on availability. Patients can also make secure online payments for appointments. The application enhance appointment history, reminders, and digital records for better patient-doctor interactions.",
-      technologies: "React , PHP",
-      image: "oonbook_logo.png",
-      additionalImages: [
-        "project-2_1.png",
-        "project-2_2.png",
-        "project-2_3.png",
-      ],
-    },
+
     {
       id: 3,
       title: "SRI CHINTHAMANI TRAVELS",
       description:
       "Sri Chinthamani Travels is a complete travel agency platform that offers an online cab booking system. Users can effortlessly book cabs for rides. The platform features a user-friendly interface where customers can browse available vehicles, check pricing, and confirm bookings with secure payment options. The website also includes an image gallery showcasing various car models available for booking.",
       technologies: "HTML, CSS , Bootstrap , JavaScript , PHP , SQL",
-      links:"https://github.com/sriharan-dev/sriChinthamani-Travels",
+      links:"https://github.com/prabhu15-dev/sriChinthamani-Travels",
       image: "sriChinthamani_logo.png",
       additionalImages: [
         "project-3_1.png",
         "project-3_2.png",
         "project-3_3.png",
       ],
-    },
-    {
-      id: 4,
-      title: "OOVANOO",
-      description:
-      "Oovanoo is a feature-rich food delivery platform designed for online ordering and doorstep delivery. It connects users with a wide range of restaurants and food partners, allowing them to browse menus, place orders, and track deliveries in real-time. The platform ensures a smooth user experience with secure payment options. Oovanoo supports partner integrations, making it an ideal solution for expanding food businesses.",
-      technologies: "HTML, CSS , Bootstrap , JavaScript , PHP , SQL",
-      links:"https://www.oovanoo.com/",
-      image: "oovanoo_logo.png",
-      additionalImages: [
-        "project-4_1.png",
-        "project-4_2.png",
-        "project-4_3.png",
-      ],
-    },
-    {
-      id: 5,
-      title: "BABY CARE",
-      description:
-      "A beautifully designed UI template for a baby schooling platform. It provides an engaging interface for parents to explore top-quality education, the best teachers, and excellent child care facilities. The platform highlights a well-equipped play area, interactive study and game sessions, and a focus on mental health schooling for young children.",
-      technologies: "HTML , CSS , Bootstrap",
-      links:"https://github.com/sriharan-dev/babyCare-template",
-      image: "babyCare_logo.png",
-      additionalImages: [
-        "project-5_1.png",
-        "project-5_2.png",
-        "project-5_3.png",
-      ],
-    },
+    }
   ];
 
   const openPopup = (project) => {

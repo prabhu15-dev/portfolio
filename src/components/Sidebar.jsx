@@ -43,30 +43,30 @@ const Sidebar = () => {
           <div className="profile">
             <div className="side-bar-image">
               <img
-                src="side-img.png"
-                alt="Sri Haran"
+                src="prabha-photo1.jpeg"
+                alt="Prabhakaran"
                 className="profile-img"
               />
             </div>
-            <h2>SRI HARAN</h2>
+            <h2>PRABHAKARAN</h2>
           </div>
           <div className="sidebar-social-icons">
             <a
-              href="https://github.com/sriharan-dev/profile"
+              href="https://github.com/prabhu15-dev/profile/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaGithub className="icon" />
             </a>
             <a
-              href="http://www.linkedin.com/in/sri-haran"
+              href="https://www.linkedin.com/in/prabhakaran-a-747521364"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedin className="icon" />
             </a>
             <a
-              href="https://wa.me/+918973637030"
+              href="https://wa.me/+919384205123"
               target="_blank"
               rel="noopener noreferrer"
             >

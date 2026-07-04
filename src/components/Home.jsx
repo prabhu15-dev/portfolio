@@ -9,7 +9,7 @@ const Home = () => {
           <h1>
             Hi there, 
             <span class="name">
-               I'm <span className="name-color">Sri Haran</span>
+               I'm <span className="name-color">Prabhakaran</span>
             </span>
           </h1>
 
@@ -17,12 +17,12 @@ const Home = () => {
             Front-end Developer with a passion for creating beautiful and
             functional web applications.
           </p>
-          <a href="sriharan_resume.pdf" download className="download-cv">
+          <a href="prabha-resume.pdf" download className="download-cv">
             <FaDownload /> Download CV
           </a>
         </div>
         <div className="home-right">
-          <img src="sri-edit-4.png" alt="Sri Haran" className="home-img" />
+          <img src="prabha-photo2.jpeg" alt="prabhakaran" className="home-img" />
         </div>
       </div>
     </section>
